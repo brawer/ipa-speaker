@@ -1,0 +1,113 @@
+m	m
+n	n
+ɳ	n.
+ɲ	n^
+ŋ	N
+
+p	p
+b	b
+t	t
+d	d
+t̪	t[
+d̪	d[
+c	c
+ɟ	J
+k	k
+ɡ	g
+g	g
+q	q
+ɢ	G
+
+ɸ	f
+β	B
+f	f
+v	v
+θ	T
+ð	D
+ʋ	v#
+ç	C
+ʝ	J^
+x	x
+ɣ	Q
+χ	X
+ʁ	Q"
+h	h
+
+s	s
+z	z
+ʃ	S
+ʒ	Z
+ʂ	s.
+ʐ	z.
+ɕ	s;
+ʑ	z;
+
+r	r
+ɾ	*
+ɽ	r.
+r̩	r-
+l	l
+ɭ	l.
+ɫ	L
+ɬ	l#
+ʎ	l^
+
+j	j
+w	w
+
+i	i
+y	y
+ɨ	i"
+ʉ	u"
+ɯ	u-
+u	u
+
+ɪ	I
+ʏ	I.
+ɪ̈	I
+ʊ̈	I.
+ɯ̽	U-
+ʊ	U
+
+e	e
+ø	Y
+ɘ	@<umd>
+ɵ	@.
+ɤ	o-
+o	o
+
+ə	@
+
+ɛ	E
+œ	W
+ɜ	V"
+ɞ	O"
+ʌ	V
+ɔ	O
+
+æ	&
+ɐ	R
+ɞ̞	O"
+a	a
+ɶ	a.
+ä	a"
+ɒ̈	A"
+ɑ	A
+ɒ	A.
+
+œ̃	W~
+ɛ̃	E~
+ɑ̃	A~
+
+ɐ̯	R
+
+p͡f	p
+t͡ʃ	tS
+dʒ͡	dZ
+t͡ɕ	tS;
+dʑ͡	dZ;
+
+ˈ	'
+ˌ	,
+ː	:
+˞	<r>
