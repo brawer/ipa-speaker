@@ -1,13 +1,13 @@
 # IPA Speaker
 
 Small experimental HTTP server for synthesizing strings in the
-[International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). Currently, it calls [eSpeak-NG](https://github.com/espeak-ng/espeak-ng).
+[International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet). Currently, it calls [eSpeak-NG](https://github.com/espeak-ng/espeak-ng) for speech synthesis.
 
 
 ## Build and run
 
 ```bash
-$ git clone http://github.com/brawer/ipa-speaker.git ; cd ipa-speaker
+$ git clone https://github.com/brawer/ipa-speaker.git ; cd ipa-speaker
 $ docker build -t ipa-speaker .
 $ docker run -p 8080:80 -it ipa-speaker
 ```
